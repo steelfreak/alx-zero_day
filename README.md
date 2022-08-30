@@ -1,1 +1,2 @@
-My first readme
+My first readme. 
+For sure, coding is becoming fun...!!!
